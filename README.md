@@ -2,7 +2,7 @@
 
 ### How to run the application (for developer):
 
-1. Copy the project from Greenify's repository** in this [link](https://github.com/1josee/SEPM.git).
+1. Copy the project from Greenify's repository** in this [link](https://github.com/ngckhanh/Greenify.git).
 
 2. Open Visual Studio app's terminal and paste in the command below to clone the project:
    ```bash
@@ -10,7 +10,7 @@
    ```
    You should see the result as below:
    ```bash
-   Cloning into 'SEPM'...
+   Cloning into 'Greenify'...
    remote: Enumerating objects: 10, done.
    remote: Counting objects: 100% (10/10), done.
    remote: Compressing objects: 100% (8/8), done.
