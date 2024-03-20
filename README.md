@@ -40,7 +40,7 @@
 
 ### For normal users:
 
-To access the application, simply click on the following deployed link: [greenify-one.vercel.app](https://greenify-one.vercel.app/). No installation or setup is required.
+To access the application, simply click on the following deployed link: [greenify-seven.vercel.app](https://greenify-seven.vercel.app/). No installation or setup is required.
 
 ### For using admin account:
 
