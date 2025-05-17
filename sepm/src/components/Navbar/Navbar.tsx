@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
       <Flex align="center" width={{ base: "40px", md: "auto" }} ml={2}>
         <Link href="/forum">
           <Image
-            src="https://i.imgur.com/w5z4Izl.png"
+            src="sepm/public/images/Greenify_logo.png"
             alt=""
             width={"75px"}
           />
