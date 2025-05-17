@@ -25,7 +25,7 @@ export default function Home() {
         >
           <Flex direction={"column"} alignItems="center" m="3" p="2">
             <Image
-              src="sepm/public/images/Greenify_logo.png"
+              src="/images/Greenify_logo.png"
               alt=""
               paddingBottom={2}
               width={"250px"}
